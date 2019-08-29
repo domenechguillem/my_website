@@ -23,6 +23,7 @@ bio: I am a research associate at the institute for theoretical physics in Heide
 interests:
 -  Early universe physics, inflation and the CMB
 -  General relativity, gravitational waves
+-  Dark energy, modified gravity
 -  Euclidean gravity
 
 education:
@@ -56,9 +57,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,8 +67,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Researchers: Misao Sasaki, Javier Rubio
 - Visitors
 ---
 
-Guillem Domènech is a researcher associate in the cosmology group of Heidelberg University. His research interests include ...
+Guillem Domènech is a researcher associate in the cosmology group of Heidelberg University. His research interests include General Relativity, Early Universe Physics, Inflation, Modified Gravity, CMB Physics,
+Cosmological Perturbation Theory, Gravitational Waves, Euclidean Gravity, Dark Matter and Dark Energy. He also co-coordinated courses of General Relativity and of Cosmology at master level.
