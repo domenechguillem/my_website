@@ -18,12 +18,12 @@ organizations:
   url: "https://www.thphys.uni-heidelberg.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests
+bio: I am a research associate at the institute for theoretical physics in Heidelberg university.
 
 interests:
-- A
-- B
-- C
+-  Early universe physics, inflation and the CMB
+-  General relativity, gravitational waves
+-  Euclidean gravity
 
 education:
   courses:
