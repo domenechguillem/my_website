@@ -21,9 +21,11 @@ organizations:
 bio: I am a research associate at the institute for theoretical physics in Heidelberg university.
 
 interests:
--  Early universe physics, inflation and the CMB
--  General relativity, gravitational waves
--  Dark energy, modified gravity
+-  Early universe physics
+-  Inflation and the CMB
+-  General relativity 
+-  Gravitational waves
+-  Dark energy / modified gravity
 -  Euclidean gravity
 
 education:
@@ -45,21 +47,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:domenech@thphys.uni-heidelberg.de".
+  link: 'mailto:domenech@thphys.uni-heidelberg.de'  # For a direct email link, use "mailto:domenech@thphys.uni-heidelberg.de".
 - icon: inspire
   icon_pack: ai
   link: http://inspirehep.net/author/profile/G.Domenech.2
-# icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Guillem_Domenech2
+- icon: arxiv
+  icon_pack: ai
+  link: http://arxiv.org/a/domenech_g_1
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2788-884X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,5 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Guillem Domènech is a researcher associate in the cosmology group of Heidelberg University. His research interests include General Relativity, Early Universe Physics, Inflation, Modified Gravity, CMB Physics,
-Cosmological Perturbation Theory, Gravitational Waves, Euclidean Gravity, Dark Matter and Dark Energy. He also co-coordinated courses of General Relativity and of Cosmology at master level.
+Guillem Domènech is a research associate in the cosmology group of Heidelberg University. His main research interests include theories of gravity and physics of the early universe. He also co-coordinated courses of General Relativity and of Cosmology at master level.
