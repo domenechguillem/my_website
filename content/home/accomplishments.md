@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Oxford University & John Hopkins University"
+  organization = "MEXT"
   organization_url = ""
   title = "Balzan fellow"
   url = "https://balzan.new.ox.ac.uk"
