@@ -1,5 +1,5 @@
 ---
-title: Schwinger effect in de Sitter
+title: Schwinger effect in dS
 summary: Pair creation in an expanding universe
 tags: 
 - Quantum field theory
