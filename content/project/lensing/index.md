@@ -2,7 +2,8 @@
 title: Lensing anomaly
 summary: Oscillations that mimick lensing?
 tags:
-- Early universe and the CMB
+- Early universe
+- CMB
 date: "2019-09-02"
 
 # Optional external URL for project (replaces project detail page).

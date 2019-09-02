@@ -26,13 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Early universe and the CMB"
-    tag = "Early universe and the CMB"
+    name = "Early universe"
+    tag = "Early universe"
   
- # [[content.filter_button]]
- #   name = "Other"
- #   tag = "Demo"
+  [[content.filter_button]]
+    name = "QFT"
+    tag = "Quantum field theory"
 
+  [[content.filter_button]]
+    name = "CMB"
+    tag = "CMB"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
