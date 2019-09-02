@@ -1,6 +1,6 @@
 ---
-title: Schwinger effect and vacuum birefringence
-summary: Pair creation of charged particles in an expanding universe
+title: Schwinger effect in de Sitter
+summary: Pair creation in an expanding universe
 tags: 
 - Quantum field theory
 - Electromagnetic fields
