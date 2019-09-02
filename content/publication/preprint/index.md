@@ -1,7 +1,8 @@
 ---
 title: "Lensing anomaly"
 authors:
-- admin, Marc Kamionkowski
+- admin
+- Marc Kamionkowski
 date: "2019-09-02"
 doi: ""
 
