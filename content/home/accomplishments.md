@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "MEXT"
+  organization = "Oxford University & John Hopkins University"
   organization_url = ""
-  title = "MEXT scholarship"
-  url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
+  title = "Balzan fellow"
+  url = "https://balzan.new.ox.ac.uk"
   certificate_url = ""
-  date_start = "2014-01-04"
-  date_end = "2017-09-31"
-  description = "Scholarship as research and PhD student at Yukawa Institute for Theoretical Physics, Kyoto University"
+  date_start = "2019-01-08"
+  date_end = "2019-02-08"
+  description = ""
 
 #[[item]]
 #  organization = "edX"
