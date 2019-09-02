@@ -2,6 +2,7 @@
 title: Lensing anomaly
 summary: Oscillations that mimick lensing?
 tags:
+- Inflation
 - Early universe
 - CMB
 date: "2019-09-02"

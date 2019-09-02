@@ -30,12 +30,17 @@ subtitle = ""
     tag = "Early universe"
   
   [[content.filter_button]]
-    name = "QFT"
-    tag = "Quantum field theory"
+    name = "Inflation"
+    tag = "Inflation"
 
   [[content.filter_button]]
     name = "CMB"
     tag = "CMB"
+
+  [[content.filter_button]]
+    name = "QFT"
+    tag = "Quantum field theory"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

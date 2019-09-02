@@ -29,13 +29,13 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "MEXT Japanese government"
-  organization_url = "http://www.mext.go.jp"
-  title = "Monbukagakusho scholarship"
-  url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
+  organization = "Oxford University & John Hopkins University"
+  organization_url = ""
+  title = "Balzan fellow"
+  url = "https://balzan.new.ox.ac.uk"
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2019-01-08"
+  date_end = "2019-02-08"
   description = ""
 
 #[[item]]
