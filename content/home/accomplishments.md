@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   date_end = "2019-02-08"
   description = ""
 
+[[item]]
+  organization = "Ministry of Education, Culture, Sports, Science and Technology"
+  organization_url = "http://www.mext.go.jp/en/"
+  title = "MEXT scholarship"
+  url = "http://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm"
+  certificate_url = ""
+  date_start = "2014-01-04"
+  date_end = "2017-09-31"
+  description = "Scholarship as research and PhD student at Yukawa Institute for Theoretical Physics, Kyoto University"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
