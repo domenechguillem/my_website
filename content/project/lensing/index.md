@@ -3,13 +3,13 @@ title: Lensing anomaly
 summary: Oscillations that mimick lensing?
 tags:
 - Early universe and the CMB
-date: "2016-04-27T00:00:00Z"
+date: "2019-09-02"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: CMB temperature power spectrum with an oscillation that mimicks the effect of lensing
   focal_point: Smart
 
 links:
