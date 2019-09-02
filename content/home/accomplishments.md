@@ -26,17 +26,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-08"
   date_end = "2019-02-08"
-  description = ""
+  description = "One month visit to JHU"
 
 [[item]]
   organization = "MEXT"
-  organization_url = ""
+  organization_url = "http://www.mext.go.jp"
   title = "Monbukagakusho fellow"
   url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
   certificate_url = ""
   date_start = "2014-04-01"
   date_end = "2017-09-30"
-  description = ""
+  description = "PhD scholarship in YITP, Kyoto Univ."
 
 #[[item]]
 #  organization = "edX"
