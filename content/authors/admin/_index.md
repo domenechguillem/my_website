@@ -18,7 +18,7 @@ organizations:
   url: "https://www.thphys.uni-heidelberg.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research associate at the institute for theoretical physics in Heidelberg university.
+bio: I am a research associate at the institute for theoretical physics in Heidelberg university. My research focuses in various aspects of cosmology, gravity and particle physics. 
 
 interests:
 -  Early universe physics
