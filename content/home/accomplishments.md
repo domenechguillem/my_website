@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Monbukagakusho fellow"
   url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
   certificate_url = ""
-  date_start = "2019-01-08"
-  date_end = "2019-02-08"
+  date_start = "2014-04-01"
+  date_end = "2017-09-30"
   description = ""
 
 #[[item]]
