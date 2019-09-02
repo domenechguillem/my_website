@@ -7,8 +7,8 @@ tags:
 date: "2019-09-02"
 
 image:
-	caption: Pair creation in an expading universe
-	focal_point: smart
+  caption: Pair creation in an expading universe
+  focal_point: smart
 
 links:
 - icon: arxiv
