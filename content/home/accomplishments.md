@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "MEXT"
   organization_url = ""
-  title = "Balzan fellow"
+  title = "Monbukagakusho fellow"
   url = "https://balzan.new.ox.ac.uk"
   certificate_url = ""
   date_start = "2019-01-08"
