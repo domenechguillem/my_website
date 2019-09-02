@@ -16,5 +16,10 @@ links:
   name: full article
   url: https://arxiv.org/abs/1809.08977
 
- ---
- This is a test
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+---
+ This is a test.
