@@ -15,8 +15,9 @@ image:
 links:
 - icon: arxiv
   icon_pack: ai
-  name: test
-  url: http://arxiv.org/abs/1905.04323 
+  name: full article
+  url: http://arxiv.org/abs/1905.04323
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
