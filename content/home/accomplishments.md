@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Ministry of Education, Culture, Sports, Science and Technology"
-  organization_url = "http://www.mext.go.jp/en/"
+  organization = "MEXT"
+  organization_url = ""
   title = "MEXT scholarship"
   url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
   certificate_url = ""
