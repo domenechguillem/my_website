@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "One month visit to JHU"
 
 [[item]]
-  organization = "MEXT"
+  organization = "MEXT, Japanese government"
   organization_url = "http://www.mext.go.jp"
   title = "Monbukagakusho fellow"
   url = "https://en.wikipedia.org/wiki/Monbukagakusho_Scholarship"
