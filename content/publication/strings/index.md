@@ -4,7 +4,7 @@ authors:
 - Dario Bettoni
 - admin
 - Javier Rubio
-date: "October 25, 2018"
+date: "2018-10-25"
 doi: "10.1088/1475-7516/2019/02/034"
 
 # Schedule page publish date (NOT publication's date).

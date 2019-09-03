@@ -4,7 +4,7 @@ authors:
 - admin
 - Chunshan Lin
 - Misao Sasaki
-date: "December 2, 2015"
+date: "2015-12-02"
 doi: "10.1209/0295-5075/115/19001"
 
 # Schedule page publish date (NOT publication's date).

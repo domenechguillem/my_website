@@ -3,7 +3,7 @@ title: "Hamiltonian approach to second order gauge invariant cosmological pertur
 authors:
 - admin
 - Misao Sasaki
-date: "September 28, 2017"
+date: "2017-09-28"
 doi: "10.1103/PhysRevD.97.023521"
 
 # Schedule page publish date (NOT publication's date).

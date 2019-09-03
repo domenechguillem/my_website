@@ -7,7 +7,7 @@ authors:
 - Misao Sasaki
 - Maresuke Shiraishi
 - Yi Wang
-date: "January 18, 2017"
+date: "2017-01-18"
 doi: "10.1088/1475-7516/2017/05/034"
 
 # Schedule page publish date (NOT publication's date).

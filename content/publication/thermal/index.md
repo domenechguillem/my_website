@@ -5,7 +5,7 @@ authors:
 - admin
 - Misao Sasaki
 - Dong-han Yeom
-date: "April 23, 2017"
+date: "2017-04-23"
 doi: "10.1007/JHEP07(2017)134 "
 
 # Schedule page publish date (NOT publication's date).

@@ -4,7 +4,7 @@ authors:
 - admin
 - Javier Rubio
 - Julius Wons
-date: "November 20, 2018"
+date: "2018-11-20"
 doi: "10.1016/j.physletb.2019.01.039"
 
 # Schedule page publish date (NOT publication's date).

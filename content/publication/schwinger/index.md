@@ -4,7 +4,7 @@ authors:
 - Mariona Banyeres
 - admin
 - Jaume Garriga
-date: "September 24, 2018"
+date: "2018-09-24"
 doi: "10.1088/1475-7516/2018/10/023"
 
 # Schedule page publish date (NOT publication's date).

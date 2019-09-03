@@ -5,7 +5,7 @@ authors:
 - Dario Bettoni
 - admin
 - Adalto R. Gomes
-date: "March 16, 2018"
+date: "2018-03-16"
 doi: "10.1088/1475-7516/2018/06/029"
 
 # Schedule page publish date (NOT publication's date).
