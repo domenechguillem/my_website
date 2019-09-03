@@ -1,5 +1,5 @@
 ---
-title: "VInflationary Magnetogenesis with Broken Local U(1) Symmetry"
+title: "Inflationary Magnetogenesis with Broken Local U(1) Symmetry"
 authors:
 - admin
 - Chunshan Lin
