@@ -77,4 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Guillem Domènech is a research associate in the cosmology group of Heidelberg University. His main research interests include theories of gravity and physics of the early universe. He also co-coordinated courses of General Relativity and of Cosmology at master level.
+I am research associate in the cosmology group of ITP, Heidelberg University, under the supervision of Christof Wetterich. My main research interests include theories of gravity and physics of the early universe. I also co-coordinated courses of General Relativity and of Cosmology at master level.
+
+My work is supported by the DFG Collaborative Research centre SFB 1225 ISOQUANT.
