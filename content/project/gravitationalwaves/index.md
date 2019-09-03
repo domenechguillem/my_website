@@ -8,7 +8,7 @@ tags:
 - Tensor modes
 - CMB
 - B-modes
-- Early universew
+- Early universe
 date: "2019-09-02"
 
 # Optional external URL for project (replaces project detail page).

@@ -4,7 +4,7 @@ summary:
 tags:
 - Black holes
 - Euclidean gravity
-- Quantum tunneling
+- Quantum gravity
 - Vacuum bubbles
 date: "2019-09-02"
 

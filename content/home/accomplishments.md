@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-08"
   date_end = "2019-02-08"
-  description = "One month visit to JHU"
+  description = ""
 
 [[item]]
   organization = "MEXT, Japanese government"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-04-01"
   date_end = "2017-09-30"
-  description = "PhD scholarship in YITP, Kyoto Univ."
+  description = ""
 
 #[[item]]
 #  organization = "edX"

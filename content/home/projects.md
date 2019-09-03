@@ -38,6 +38,10 @@ subtitle = ""
     tag = "CMB"
 
   [[content.filter_button]]
+    name = "Gravitational waves"
+    tag = "Gravitational waves"
+
+  [[content.filter_button]]
     name = "QFT"
     tag = "Quantum field theory"
 
@@ -50,8 +54,8 @@ subtitle = ""
     tag = "Dark energy"
 
   [[content.filter_button]]
-    name = "Quantum tunneling"
-    tag = "Quantum tunneling"
+    name = "Quantum gravity"
+    tag = "Quantum gravity"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
