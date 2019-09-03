@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research associate"
   company = "ITP Heidelberg"
@@ -28,11 +29,14 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Cosmology seminar organiser
+  * Teaching: """
   * Tutor for Advanced Quantum Field Theory (w/ C. Wetterich), Summer semester 2019
   * Co-coordinated Master course: General Relavity (w/ L. Amendola), Winter semester 2018
   * Co-coordinated Master course: Cosmology (w/ L. Amendola), Summer semester 2018
   * Tutor for Theoretical Statistical physics (w/ U. Schwarz), Winter semester 2017
   * Supervision of Master student (w/ J. Rubio): Julius Wons
+  """
 
+"""
 
 +++
