@@ -1,24 +1,25 @@
 ---
-title: Lensing anomaly
-summary: Oscillations that mimick lensing?
+title: Euclidean gravity
+summary: 
 tags:
-- Inflation
-- Early universe
-- CMB
+- Black holes
+- Euclidean gravity
+- Quantum tunneling
+- Vacuum bubbles
 date: "2019-09-02"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: CMB temperature power spectrum with an oscillation that mimicks the effect of lensing
+  caption: 
   focal_point: Smart
 
 links:
 - icon: arxiv
   icon_pack: ai
-  name: full article
-  url: http://arxiv.org/abs/1905.04323
+  name:
+  url: 
 
 url_code: ""
 url_pdf: ""

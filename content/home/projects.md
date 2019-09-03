@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Early universe"
-    tag = "Early universe"
-  
-  [[content.filter_button]]
     name = "Inflation"
     tag = "Inflation"
+  
+  [[content.filter_button]]
+    name = "Early universe"
+    tag = "Early universe"
 
   [[content.filter_button]]
     name = "CMB"
@@ -40,6 +40,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "QFT"
     tag = "Quantum field theory"
+
+  [[content.filter_button]]
+    name = "Black holes"
+    tag = "Black holes"
+
+  [[content.filter_button]]
+    name = "Dark energy"
+    tag = "Dark energy"
+
+  [[content.filter_button]]
+    name = "Quantum tunneling"
+    tag = "Quantum tunneling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
