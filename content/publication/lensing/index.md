@@ -31,15 +31,15 @@ featured: false
 
 links:
 - name: Full article
-  url: 
-url_pdf: http://arxiv.org/pdf/1905.04323.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+  url: http://arxiv.org/pdf/1905.04323.pdf
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- lensing
+- New physics in the CMB
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,8 +64,4 @@ projects:
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Under construction.

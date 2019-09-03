@@ -30,10 +30,10 @@ tags:
 - Early Universe
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1809.08977.pdf
+links:
+ - name: full article
+   url: http://arxiv.org/pdf/1809.08977.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- schwinger
+- Magnetogenesis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,13 +64,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Under construction.
