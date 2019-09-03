@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Cosmology seminar organiser
-  * Teaching:
-    * Test
+  * Teaching and tutoring
+  * Supervising students
 
 
 +++
