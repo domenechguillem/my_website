@@ -1,5 +1,5 @@
 ---
-title: "Vacuum birefringence and the Schwinger effect in (3+1) de Sitter"
+title: "Gravitational waves from global cosmic strings in quintessential inflation"
 authors:
 - Dario Bettoni
 - admin
