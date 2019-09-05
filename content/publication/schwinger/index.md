@@ -26,8 +26,10 @@ abstract: In de Sitter space, the current induced by an electric field in vacuum
 summary: 
 
 tags:
-- QFT
+- Quantum Field Theory
 - Early Universe
+- Electromagnetic fields
+- Pair creation
 featured: false
 
 links:
