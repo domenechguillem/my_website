@@ -70,4 +70,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Under construction.
