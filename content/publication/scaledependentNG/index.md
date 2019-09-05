@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Cosmology and Astrophysics*(1)"
+publication: "*Journal of Cosmology and Astroparticle Physics*"
 publication_short: "JCAP"
 
 abstract: We consider a cosmological model in which the tensor mode becomes massive during inflation, and study the Cosmic Microwave Background (CMB) temperature and polarization bispectra arising from the mixing between the scalar mode and the massive tensor mode during inflation. The model assumes the existence of a preferred spatial frame during inflation. The local Lorentz invariance is already broken in cosmology due to the existence of a preferred rest frame. The existence of a preferred spatial frame further breaks the remaining local SO(3) invariance and in particular gives rise to a mass in the tensor mode. At linear perturbation level, we minimize our model so that the vector mode remains non-dynamical, while the scalar mode is the same as the one in single-field slow-roll inflation. At non-linear perturbation level, this inflationary massive graviton phase leads to a sizeable scalar-scalar-tensor coupling, much greater than the scalar-scalar-scalar one, as opposed to the conventional case. This scalar-scalar-tensor interaction imprints a scale dependent feature in the CMB temperature and polarization bispectra. Very intriguingly, we find a surprizing similarity between the predicted scale dependence and the scale-dependent non-Gaussianities at low multipoles hinted in the WMAP and Planck results.
