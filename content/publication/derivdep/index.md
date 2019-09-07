@@ -2,9 +2,13 @@
 title: "Hamiltonian approach to second order gauge invariant cosmological perturbations"
 authors:
 - admin
-- Misao Sasaki
-date: "2017-09-28"
-doi: "10.1103/PhysRevD.97.023521"
+- Shinji Mukohyama
+- Ryo Namba
+- Atsushi Naruko
+- Rio Saitou
+- Yota Watanabe
+date: "2015-07-20"
+doi: "10.1103/PhysRevD.92.084027"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -19,24 +23,21 @@ publication_types: ["2"]
 publication: "*Physical Reviews D*"
 publication_short: "PRD"
 
-abstract: In view of growing interest in tensor modes and their possible detection, we clarify the definition of tensor modes up to 2nd order in perturbation theory within the Hamiltonian formalism. Like in gauge theory, in cosmology the Hamiltonian is a suitable and consistent approach to reduce the gauge degrees of freedom. In this paper we employ the Faddeev-Jackiw method of Hamiltonian reduction. An appropriate set of gauge invariant variables that describe the dynamical degrees of freedom may be obtained by suitable canonical transformations in the phase space. We derive a set of gauge invariant variables up to 2nd order in perturbation expansion and for the first time we reduce the 3rd order action without adding gauge fixing terms. In particular, we are able to show the relation between the uniform-ϕ and Newtonian slicings, and study the difference in the definition of tensor modes in these two slicings.
+abstract: We study metric transformations which depend on a scalar field and its first derivatives and confirm that the number of physical degrees of freedom does not change under such transformations, as long as they are not singular. We perform a Hamiltonian analysis of a simple model in the unitary gauge. In addition, we explicitly show that the transformation and the gauge fixing do commute in transforming the action. We then extend the analysis to more general gravitational theories and transformations in general gauges. We verify that the set of all constraints and the constraint algebra are left unchanged by such transformations and conclude that the number of degrees of freedom is not modified by a regular and invertible generic transformation among two metrics. We also discuss the implications for the recently called “hidden” constraints and for the case of a singular transformation, also known as mimetic gravity.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Inflation
-- Early Universe
-- Cosmological perturbation theory
-- Tensor modes
-- Gravitational waves
+- Gravity
 - Scalar fields
+- Metric transformations
 - Hamiltonian
 featured: false
 
 links:
  - name: arXiv
-   url: http://arxiv.org/pdf/1709.09804.pdf
+   url: http://arxiv.org/pdf/1507.05390.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -59,7 +60,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- gravitationalwaves
+- theoriesofgravity
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

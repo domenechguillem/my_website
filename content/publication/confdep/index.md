@@ -1,12 +1,10 @@
 ---
-title: "Thermal activation of thin-shells in anti-de Sitter black hole spacetime "
+title: "Conformal Frame Dependence of Inflation"
 authors:
-- Pisin Chen
 - admin
 - Misao Sasaki
-- Dong-han Yeom
-date: "2017-04-23"
-doi: "10.1007/JHEP07(2017)134 "
+date: "2015-01-30"
+doi: "10.1088/1475-7516/2015/04/022"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -15,29 +13,30 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of High Energy Physics*"
-publication_short: "JHEP"
+publication: "*Journal of Cosmology and Astroparticle Physics*"
+publication_short: "JCAP"
 
-abstract: We investigate thermal activation of thin-shells around anti-de Sitter black holes. Under the thin-shell approximation, we extensively study the parameter region that allows a bubble nucleation bounded by a thin-shell out of a thermal bath. We show that in general if one fixes the temperature outside the shell, one needs to consider the presence of a conical deficit inside the shell in the Euclidean manifold, due to the lack of solutions with a smooth manifold. We show that for a given set of theoretical parameters, i.e., vacuum and shell energy density, there is a finite range of black hole masses that allow this transition. Most interestingly, one of them describes the complete evaporation of the initial black hole.
+abstract: Physical equivalence between different conformal frames in scalar-tensor theory of gravity is a known fact. However, assuming that matter minimally couples to the metric of a particular frame, which we call the matter Jordan frame, the matter point of view of the universe may vary from frame to frame. Thus, there is a clear distinction between gravitational sector (curvature and scalar field) and matter sector. In this paper, focusing on a simple power-law inflation model in the Einstein frame, two examples are considered, a super-inflationary and a bouncing universe Jordan frames. Then we consider a spectator curvaton minimally coupled to a Jordan frame, and compute its contribution to the curvature perturbation power spectrum. In these specific examples, we find a blue tilt at short scales for the super-inflationary case, and a blue tilt at large scales for the bouncing case.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Black holes
-- Quantum tunneling
-- Euclidean gravity
-- Quantum gravity
-- Vacuum bubbles- QFT
+- Inflation
 - Early Universe
+- Scalar fields
+- CMB
+- Gravity
+- Black holes
+- Metric transformations
 featured: false
 
 links:
  - name: arXiv
-   url: http://arxiv.org/pdf/1704.04020.pdf
+   url: http://arxiv.org/pdf/1501.07699.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -60,7 +59,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- euclideangravity
+- theoriesofgravity
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

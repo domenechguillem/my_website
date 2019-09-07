@@ -1,12 +1,11 @@
 ---
-title: "Conformal frames in cosmology"
+title: "Cosmological disformal invariance"
 authors:
 - admin
+- Atsushi Naruko
 - Misao Sasaki
-date: "2016-02-10"
-doi: "10.1142/9789813203952_0007"
-
-#"10.1142/S0218271816450061"
+date: "2015-05-01"
+doi: "10.1088/1475-7516/2015/10/067"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,27 +17,24 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Modern Physics D*"
-publication_short: "IJMPD"
+publication: "*Journal of Cosmology and Astroparticle Physics*"
+publication_short: "JCAP"
 
-abstract: From higher dimensional theories, e.g. string theory, one expects the presence of nonminimally coupled scalar fields. We review the notion of conformal frames in cosmology and emphasize their physical equivalence, which holds at least at a classical level. Furthermore, if there is a field, or fields, which dominates the universe, as it is often the case in cosmology, we can use such notion of frames to treat our system, matter and gravity, as two different sectors. On one hand, the gravity sector which describes the dynamics of the geometry and on the other hand, the matter sector which has such geometry as a playground. We use this interpretation to build a model where the fact that a curvaton couples to a particular frame metric could leave an imprint in the cosmic microwave background (CMB).
+abstract: The invariance of physical observables under disformal transformations is considered. It is known that conformal transformations leave physical observables invariant. However, whether it is true for disformal transformations is still an open question. In this paper, it is shown that a pure disformal transformation without any conformal factor is equivalent to rescaling the time coordinate. Since this rescaling applies equally to all the physical quantities, physics must be invariant under a disformal transformation, that is, neither causal structure, propagation speed nor any other property of the fields are affected by a disformal transformation itself. This fact is presented at the action level for gravitational and matter fields and it is illustrated with some examples of observable quantities. We also find the physical invariance for cosmological perturbations at linear and high orders in perturbation, extending previous studies. Finally, a comparison with Horndeski and beyond Horndeski theories under a disformal transformation is made.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Inflation
-- Early Universe
-- Scalar fields
-- CMB
 - Gravity
-- Black holes
+- Scalar fields
 - Metric transformations
+- Cosmological perturbation theory
 featured: false
 
 links:
  - name: arXiv
-   url: http://arxiv.org/pdf/1602.06332.pdf
+   url: http://arxiv.org/pdf/1505.00174.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -61,7 +57,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- newphysicsCMB
 - theoriesofgravity
 
 # Slides (optional).

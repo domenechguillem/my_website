@@ -29,7 +29,7 @@ summary:
 tags:
 - Dark energy
 - Gravity
-- Scalar fields
+- Vector fields
 - Gravitational waves
 featured: false
 

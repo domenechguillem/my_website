@@ -1,12 +1,12 @@
 ---
-title: "Thermal activation of thin-shells in anti-de Sitter black hole spacetime "
+title: "Fixing a Rigorous Formalism for the Accurate Analytic Derivation of Halo Properties"
 authors:
-- Pisin Chen
+- Enric Juan
+- Eduard Salvador-Sole
 - admin
-- Misao Sasaki
-- Dong-han Yeom
-date: "2017-04-23"
-doi: "10.1007/JHEP07(2017)134 "
+- Alberto Manrique
+date: "2014-01-28"
+doi: "10.1093/mnras/stt2493"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,26 +18,21 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of High Energy Physics*"
-publication_short: "JHEP"
+publication: "*Monthly Notices of the Royal Astronomical Society*"
+publication_short: "MNRAS"
 
-abstract: We investigate thermal activation of thin-shells around anti-de Sitter black holes. Under the thin-shell approximation, we extensively study the parameter region that allows a bubble nucleation bounded by a thin-shell out of a thermal bath. We show that in general if one fixes the temperature outside the shell, one needs to consider the presence of a conical deficit inside the shell in the Euclidean manifold, due to the lack of solutions with a smooth manifold. We show that for a given set of theoretical parameters, i.e., vacuum and shell energy density, there is a finite range of black hole masses that allow this transition. Most interestingly, one of them describes the complete evaporation of the initial black hole.
+abstract: We establish a one-to-one correspondence between virialized haloes and their seeds, namely peaks with a given density contrast at appropriate Gaussian-filtering radii, in the initial Gaussian random density field. This fixes a rigorous formalism for the analytic derivation of halo properties from the linear power spectrum of density perturbations in any hierarchical cosmology. The typical spherically averaged density profile and mass function of haloes so obtained match those found in numerical simulations.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Black holes
-- Quantum tunneling
-- Euclidean gravity
-- Quantum gravity
-- Vacuum bubbles- QFT
-- Early Universe
+- Dark Matter
 featured: false
 
 links:
  - name: arXiv
-   url: http://arxiv.org/pdf/1704.04020.pdf
+   url: http://arxiv.org/pdf/1401.7335.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -59,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- euclideangravity
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
