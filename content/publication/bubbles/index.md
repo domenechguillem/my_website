@@ -5,7 +5,7 @@ authors:
 - admin
 - Misao Sasaki
 - Dong-han Yeom
-date: "2015-12-1"
+date: "2015-12-01"
 doi: "10.1088/1475-7516/2016/04/013"
 
 # Schedule page publish date (NOT publication's date).

@@ -1,5 +1,5 @@
 ---
-title: "Hamiltonian approach to second order gauge invariant cosmological perturbations"
+title: "Derivative-dependent metric transformation and physical degrees of freedom"
 authors:
 - admin
 - Shinji Mukohyama
