@@ -15,7 +15,7 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: Several gravitational wave detectors will be looking for cosmological gravitational waves. Image: [Power-law integrated sensitivity curves](https://arxiv.org/abs/1310.5300).
+  caption: Gravitational waves are a new window to hear the universe. Image credit: [Caltech/MIT/LIGO lab](https://www.ligo.caltech.edu/image/ligo20160211a).
   focal_point: Smart
 
 links:
