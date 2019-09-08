@@ -14,7 +14,7 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: "CMB temperature anisotropy map from [Planck 2018](https://www.cosmos.esa.int/web/planck/picture-gallery)."
+  caption: "CMB temperature anisotropy map from Planck 2018. Image credit: [Planck team](https://www.cosmos.esa.int/web/planck/picture-gallery)."
   focal_point: Smart
 
 #links:
