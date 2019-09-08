@@ -77,6 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I am research associate in the cosmology group of ITP, Heidelberg University, under the supervision of [Christof Wetterich](http://inspirehep.net/author/profile/C.Wetterich.1). My main research interests include theories of gravity and physics of the early universe. I refereed articles for the [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516) and the [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe). Also, I co-coordinated courses of General Relativity and of Cosmology at master level.
+I am research associate in the cosmology group of [ITP](https://www.thphys.uni-heidelberg.de), Heidelberg University, under the supervision of [Christof Wetterich](https://www.thphys.uni-heidelberg.de/~wetterich/). My main research interests include theories of gravity and physics of the early universe. I refereed articles for the [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516) and the [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe). Also, I co-coordinated courses of General Relativity and of Cosmology at master level.
+
+I did my doctor course at [YITP](https://www.yukawa.kyoto-u.ac.jp/en-GB/), Kyoto University, under the supervision of [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/).
 
 My work is supported by the DFG Collaborative Research centre SFB 1225 ISOQUANT.
