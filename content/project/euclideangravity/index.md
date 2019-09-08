@@ -12,14 +12,14 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: 
+  caption: Vacuum bubbles
   focal_point: Smart
 
-links:
-- icon: arxiv
-  icon_pack: ai
-  name:
-  url: 
+#links:
+#- icon: arxiv
+#  icon_pack: ai
+#  name:
+#  url: 
 
 url_code: ""
 url_pdf: ""
