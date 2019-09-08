@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-You can filter articles by clicking [here]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#You can filter articles by clicking [here]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
