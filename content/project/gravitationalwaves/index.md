@@ -15,7 +15,7 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: "Gravitational waves are a new window to hear the universe. Image credit: [Caltech/MIT/LIGO lab](https://www.ligo.caltech.edu/image/ligo20160211a)."
+  caption: "Gravitational waves are a new window to hear the universe. Image credit: [LIGO/T. Pyle](https://www.ligo.caltech.edu/image/ligo20160615f)."
   focal_point: Smart
 
 #links:
