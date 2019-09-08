@@ -13,7 +13,7 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: 
+  caption: Do we need more than General Relativity at cosmological scales?
   focal_point: Smart
 
 links:
