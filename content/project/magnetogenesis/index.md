@@ -19,11 +19,11 @@ image:
   caption: "Blazar observations seem to hint to intergalactic magnetic fields. Image credit:[NASA](https://images-assets.nasa.gov/image/PIA20912/PIA20912~small.jpg)"
   focal_point: Smart
 
-links:
-- icon: arxiv
-  icon_pack: ai
-  name:
-  url: 
+#links:
+#- icon: arxiv
+#  icon_pack: ai
+#  name:
+#  url: 
 
 url_code: ""
 url_pdf: ""

@@ -18,11 +18,11 @@ image:
   caption: "Gravitational waves are a new window to hear the universe. Image credit: [Caltech/MIT/LIGO lab](https://www.ligo.caltech.edu/image/ligo20160211a)."
   focal_point: Smart
 
-links:
-- icon: arxiv
-  icon_pack: ai
-  name:
-  url: 
+#links:
+#- icon: arxiv
+#  icon_pack: ai
+#  name:
+#  url: 
 
 url_code: ""
 url_pdf: ""
