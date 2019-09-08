@@ -16,7 +16,7 @@ date: "2019-09-02"
 # external_link: "http://arxiv.org/abs/1905.04323"
 
 image:
-  caption: "Blazar observations seem to hint to intergalactic magnetic fields. Image credit:[NASA](https://images-assets.nasa.gov/image/PIA20912/PIA20912~small.jpg)"
+  caption: "Blazar observations seem to hint to intergalactic magnetic fields. Image credit: [NASA](https://images-assets.nasa.gov/image/PIA20912/PIA20912~small.jpg)"
   focal_point: Smart
 
 #links:
