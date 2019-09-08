@@ -17,11 +17,11 @@ image:
   caption: CMB temperature anisotropy map from [Planck 2018](https://www.cosmos.esa.int/web/planck/picture-gallery). 
   focal_point: Smart
 
-links:
-- icon: arxiv
-  icon_pack: ai
-  name:
-  url: 
+#links:
+#- icon: arxiv
+#  icon_pack: ai
+#  name:
+#  url: 
 
 url_code: ""
 url_pdf: ""
