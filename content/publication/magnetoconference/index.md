@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
- - name: 
-   url:
-url_pdf: http://inspirehep.net/record/1620311/files/10.1088_1742-6596_883_1_012013.pdf
+ - name: full article
+   url: http://inspirehep.net/record/1620311/files/10.1088_1742-6596_883_1_012013.pdf
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
