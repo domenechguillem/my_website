@@ -31,7 +31,7 @@ tags:
 - Quantum tunneling
 - Euclidean gravity
 - Quantum gravity
-- Vacuum bubbles- QFT
+- Vacuum bubbles
 - Early Universe
 featured: false
 
