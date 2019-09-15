@@ -15,6 +15,8 @@ image:
   caption: Vacuum bubbles pop up like bubbles in boiling water
   focal_point: Smart
 
+summary: test
+
 #links:
 #- icon: arxiv
 #  icon_pack: ai
