@@ -33,4 +33,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Under construction.
+One of the best approaches to quantum gravity is by means of the Euclidean path integral formalism. It considers all possible geometries to give a *wavefunction* of the universe; a sort of *quantum* superposition of spacetimes (whatever that means). The trick is to work in *imaginary* time (a simple mathematical trick) to make (some not all) spacetimes become static compact geometries (otherwise the integral blow up), as this *imaginary* time behaves like another space coordinate.
+
+Up to now, the best we can do is to use a semi-classical treatment, where we only consider geometries that contribute most to the wavefunctions; those who are solutions to the classical Einstein equations. Then, we can compute, for example, the probablity that an initial spacetime tunnels to some final spacetime. We only need an Euclidean solution joining the two, called *instanton*.  
+
+I use *instantons* and *tunneling between geometries* to tackle the *information loss paradox*: the question of whether we can recover the information of anything that fell into a black hole (*e.g* how to reconstruct a book that disappeared behind the black holes horizon) or it is simply lost (which would be in conflict with our knowledge of quantum field theory). For more details see this [review](https://arxiv.org/abs/1412.8366) of my collaborators. 
