@@ -10,7 +10,6 @@ date: "2019-09-02"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "http://arxiv.org/abs/1905.04323"
-short: test
 
 image:
   caption: Vacuum bubbles pop up like bubbles in boiling water
