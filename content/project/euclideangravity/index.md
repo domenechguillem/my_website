@@ -15,7 +15,7 @@ image:
   caption: Vacuum bubbles pop up like bubbles in boiling water
   focal_point: Smart
 
-summary: test
+summary: How can bubbles pop out of vacuum? What is are the implications for black holes?
 
 #links:
 #- icon: arxiv
