@@ -43,5 +43,5 @@ If these Mpc wavelength magnetic fields are present in the intergalactic space, 
 
 Another interesting phenomena that would occur if such huge electromagnetic fields were present in the primordial universe is what is known as the [Schwinger effect](https://en.wikipedia.org/wiki/Schwinger_effect). Electromagnetic fields are so strong that particle-antiparticle pairs can be created out of the vacuum consuming the energy of the electromagnetic field. This effect is particularly interesting if the universe is expanding. I have provided intuitive explanations [here]({{<ref "/publication/schwinger/index.md">}}).
 
-[^1]: Mega = a million times. [Parsec](https://en.wikipedia.org/wiki/Parsec)(pc) = 3.3 light years. A pc is the typical separation between stars. Roughly 10 kpc (kiloparsec) is the typical length of a galaxy. Mpc is the typical separation between galaxies.
+[^1]: Mega = a million times. [Parsec](https://en.wikipedia.org/wiki/Parsec) (pc) = 3.3 light years. A pc is the typical separation between stars. Roughly 10 kpc (kiloparsec) is the typical length of a galaxy. Mpc is the typical separation between galaxies.
 [^2]: More properly, a blazar is an Active Galactic Nuclei (AGN) with a relativistic jet that is pointing towards us. This is why it appears extremely bright.
