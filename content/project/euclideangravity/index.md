@@ -34,7 +34,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-One of the best approaches to quantum gravity is by means of the Euclidean path integral formalism. It considers all possible geometries to give a *wavefunction* of the universe; a sort of *quantum* superposition of spacetimes (whatever that means). The mathematical trick is to work in *imaginary* time to make (some but not all) spacetimes become static compact geometries (otherwise the integral blow up), as this *imaginary* time behaves like another space coordinate.
+One of the best approaches to quantum gravity is by means of the Euclidean path integral formalism. It considers all possible geometries to give a *wavefunction* of the universe; a sort of *quantum* superposition of spacetimes (whatever that means). The mathematical trick is to work in *imaginary* time to make (some but not all) spacetimes become static compact geometries (otherwise calculations blow up), as this *imaginary* time behaves like another space coordinate.
 
 Up to now, the best we can do is to use a semi-classical treatment, where we only consider geometries that contribute most to the wavefunctions; those who are solutions to the classical Einstein equations. Then, we can compute, for example, the probablity that an initial spacetime tunnels to some final spacetime. We only need an Euclidean solution joining the two, called *instanton*. We can use this two compute what is the probability that a bubble appears out of vacuum!
 
