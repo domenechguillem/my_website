@@ -1,6 +1,6 @@
 ---
 title: Euclidean gravity
-summary: 
+summary: How can bubbles pop out of vacuum? What are the implications for black holes?
 tags:
 - Black holes
 - Euclidean gravity
@@ -15,7 +15,6 @@ image:
   caption: Vacuum bubbles pop up like bubbles in boiling water
   focal_point: Smart
 
-summary: How can bubbles pop out of vacuum? What are the implications for black holes?
 
 #links:
 #- icon: arxiv
