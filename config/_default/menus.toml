@@ -21,7 +21,7 @@
 
 [[main]]
   name = "Euclidean gravity"
-  partent = "Research Projects"
+  parent = "Research Projects"
   url = "#projects/euclideangravity"
   weight = 20
 
