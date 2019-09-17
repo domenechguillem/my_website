@@ -22,7 +22,7 @@
 [[main]]
   name = "Euclidean gravity"
   parent = "Research Projects"
-  url = "#euclideangravity"
+  url = "#projects/euclideangravity"
   weight = 25
 
 [[main]]
