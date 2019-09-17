@@ -11,10 +11,10 @@
 [es]
   languageCode = "es-ES"
   contentDir = "content/es"
-  title = "es"
+  title = "Guillem Domènech - Cosmología"
 #  [es.params]
 #    description = "Site description in Chinese..."
   [[es.menu.main]]
-    name = "Guillem Domènech - Cosmología"
+    name = "Sobre mi"
     url = "en/#about"
     weight = 1
