@@ -1,6 +1,6 @@
 ---
 title: Gravitational wave cosmology
-summary: 
+summary: What can gravitational waves tell us about cosmology?
 tags:
 - Inflation
 - Cosmological perturbation theory

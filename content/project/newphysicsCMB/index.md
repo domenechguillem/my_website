@@ -1,6 +1,6 @@
 ---
 title: New physics in the CMB
-summary: 
+summary: What can we learn from the cosmic microwave background?
 tags:
 - Inflation
 - Early universe
