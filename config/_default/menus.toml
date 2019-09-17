@@ -19,11 +19,11 @@
   url = "#projects"
   weight = 20
 
-[[main]]
-  name = "Euclidean gravity"
-  parent = "Research Projects"
-  url = "#projects/euclideangravity"
-  weight = 20
+    [[footer]]
+      name = "Euclidean gravity"
+      parent = "Research Projects"
+      url = "#euclideangravity"
+      weight = 25
 
 [[main]]
   name = "Publications"
