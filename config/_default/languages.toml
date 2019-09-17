@@ -11,10 +11,10 @@
 [es]
   languageCode = "es-ES"
   contentDir = "content/es"
-#  title = "Gui"
+  title = "es"
 #  [es.params]
 #    description = "Site description in Chinese..."
-#  [[es.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[es.menu.main]]
+    name = "Wo"
+    url = "#about"
+    weight = 1
