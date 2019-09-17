@@ -15,7 +15,14 @@
 
 [[main]]
   name = "Research Projects"
+  identifier = "Research Projects"
   url = "#projects"
+  weight = 20
+
+[[main]]
+  name = "Euclidean gravity"
+  partent = "Research Projects"
+  url = "#projects/euclideangravity"
   weight = 20
 
 [[main]]
