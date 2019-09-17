@@ -16,5 +16,5 @@
 #    description = "Site description in Chinese..."
   [[es.menu.main]]
     name = "Sobre mi"
-    url = "en/#about"
+    url = "es/#about"
     weight = 1
