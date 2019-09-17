@@ -15,6 +15,6 @@
 #  [es.params]
 #    description = "Site description in Chinese..."
   [[es.menu.main]]
-    name = "Wo"
-    url = "#about"
+    name = "Guillem Domènech - Cosmología"
+    url = "en/#about"
     weight = 1
