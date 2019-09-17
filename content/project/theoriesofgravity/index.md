@@ -1,6 +1,6 @@
 ---
 title: Exploring theories of gravity
-summary: 
+summary: Is general relativity the theory of gravity?
 tags:
 - Inflation
 - Gravity
@@ -25,7 +25,6 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -34,4 +33,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Under construction.
+Is General Relativity the theory of gravity describing the physics of our universe? It certainly seems that way, at least it was been [tested](https://en.wikipedia.org/wiki/Tests_of_general_relativity) on distances from about $$0.1$$mm (the size of an Amoeba) to $$10^{14}$$m (the edge of the solar system). Recently, we also have strong evidence that it also describes correctly the strong gravity regime (but low curvature) with the detection of gravitational waves from binary black holes (see my also project on [gravitational waves in cosmology]({{<ref "/project/gravitationalwaves/index.md">}})). What about the mysterious dark matter and dark energy? What about the early universe when gravity was the dominant force, spacetime curvature was large and the energy scales was very high? At the moment we do not have a definite answer but we have strong expectations that there is going to be more than General Relativity. For instance, quantum gravity and string theory generally predict the presence of non-trivial interactions of scalar fields with gravity. Furthermore, observations of the [Cosmic Microwave Background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) by the [Planck team](https://arxiv.org/abs/1807.06211) give more statistical significance to alternative theories of gravity in the [inflationary](https://en.wikipedia.org/wiki/Inflation_(cosmology) paradigm (see my works on inflation and CMB [here]({{<ref "/project/newphysicsCMB/index.md">}})).
