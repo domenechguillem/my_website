@@ -1,5 +1,5 @@
 ---
-title: "Lensing anomaly"
+title: "Lensing anomaly and oscillations in the primordial power spectrum"
 authors:
 - admin
 - Marc Kamionkowski
