@@ -45,4 +45,4 @@ I study models of inflation and their signatures in the CMB. For example, I seek
 [^1]: We know that because Einstein's theory of gravity ([general relativity](https://en.wikipedia.org/wiki/Introduction_to_general_relativity)) predicts that the universe expanded until its current size. This means that looking backwards in the past the universe shrinks and, as it becomes smaller and smaller, the temperature rises. 
 [^2]: Family of the proton. Particle made of three quarks.
 [^3]: The result of joining classical field theory, quantum mechanics and special relativity.
-[^4]: attractive in the sense they are motivated from fundamental physics.
+[^4]: attractive in the sense they are motivated from fundamental physics and that they are potentially falsifiable. 
