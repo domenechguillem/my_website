@@ -39,5 +39,7 @@ What about the mysterious dark matter and dark energy? What about the early univ
 
 I study the (rich) theoretical structure of a class of alternative theories of gravity called [scalar-tensor theories](https://en.wikipedia.org/wiki/Scalar–tensor_theory)[^1]--the one I mentioned being motivated by quantum gravity and string theory--and their applications to inflation, dark energy and dark matter. In my research, I mainly focus on the implications of how matter would experience gravity if there were non-trivial interactions between the scalar field and matter. This actually yields interesting results!
 
+For example, we have argued in this [paper]({{<ref "/publication/blackholesingularity/index.md">}}) that the infamous black hole central singularity might be an artefact due to a bad choice of metric and fields. Although we can only prove it for some examples, it is indeed an interesting possibility.
+
 
 [^1]: Scalar-tensor theory: theory of gravity containing gravitational waves (tensor) as in general relativity plus an additional scalar field. A great [book](http://inspirehep.net/record/618647?ln=en) to learn scalar-tensor theories is the one from Fuji & Maeda.
