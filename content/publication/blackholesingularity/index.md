@@ -6,7 +6,7 @@ authors:
 - Misao Sasaki
 - Christof Wetterich
 date: "2019-12-05"
-doi: ""
+doi: "10.1142/S0218271820500261"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,8 +18,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Could the black hole singularity be a field singularity?"
-publication_short: "Black hole"
+publication: "*International Journal of Modern Physics D*"
+publication_short: "IJMPD"
 
 abstract: In the wake of interest to find black hole solutions with scalar hair, we investigate the effects of disformal transformations on static spherically symmetric space-times with a non-trivial scalar field. In particular, we study solutions that have a singularity in a given frame, while the action is regular. We ask if there exists a different choice of field variables such that the geometry and the fields are regular. We find that in some cases disformal transformations can remove a singularity from the geometry or introduce a new horizon. This is possible since the Weyl tensor is not invariant under a general disformal transformation. There exists a class of metrics which can be brought to Minkowksi geometry by a disformal transformation, which may be called disformally flat metrics. We investigate three concrete examples from massless scalar fields to Horndeski theory for which the singularity can be removed from the geometry. This might indicate that no physical singularity is present. We also propose a disformal invariant tensor.
 

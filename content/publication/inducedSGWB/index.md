@@ -3,7 +3,7 @@ title: "Induced gravitational waves in a general cosmological background"
 authors:
 - admin
 date: "2019-12-11"
-doi: ""
+doi: "10.1142/S0218271820500285"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -12,11 +12,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Induced gravitational waves in a general cosmological background*"
-publication_short: "Induced SGWB"
+publication: "*International Journal of Modern Physics D*"
+publication_short: "IJMPD"
 
 abstract: Gravitational waves are inevitably produced by second order terms in cosmological perturbation theory. Most notably, the so-called induced gravitational waves are a window to the small scales part of the primordial spectrum of fluctuations and a key counterpart to the primordial black hole scenario. However, semi-analytical solutions are only known for matter and radiation domination eras. In this paper, we present new analytic integral formulas for the induced gravitational waves on subhorizon scales in a general cosmological background with a constant equation of state. We also discuss applications to a peaked primordial scalar power spectrum and the primordial black hole scenario.
 
