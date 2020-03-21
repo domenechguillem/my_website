@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "European Union’s Horizon 2020 research and innovation programme"
+  organization_url = "http://www.invisiblesplus.eu"
+  title = "Participant of InvisiblesPlus"
+  url = "https://balzan.new.ox.ac.uk"
+  certificate_url = ""
+  date_start = "2020-01-02"
+  date_end = "2020-01-30"
+  description = ""
+
+[[item]]
   organization = "Oxford University & John Hopkins University"
   organization_url = ""
   title = "Balzan fellow"
