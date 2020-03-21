@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Participant of InvisiblesPlus"
   url = "https://balzan.new.ox.ac.uk"
   certificate_url = ""
-  date_start = "2020-01-02"
-  date_end = "2020-01-30"
+  date_start = "2020-01-01"
+  date_end = "2020-02-01"
   description = ""
 
 [[item]]
