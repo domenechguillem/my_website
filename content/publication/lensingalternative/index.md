@@ -1,5 +1,5 @@
 ---
-title: "Lensing anomaly and oscillations in the primordial power spectrum"
+title: "Lensing anomaly as a fingerprint of alternative scenarios to inflation"
 authors:
 - admin
 - Xingang Chen
