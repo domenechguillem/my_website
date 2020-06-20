@@ -19,10 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "European Union’s Horizon 2020 research and innovation programme"
+  organization = "European Union’s Horizon 2020 research and innovation programme N° 754496 and Istituto Nazionale di Fisica Nucleare (INFN)."
+  organization_url = "https://web.infn.it/fellini/"
+  title = "Marie-Curie Fellini Fellowship"
+  url = "https://web.infn.it/fellini/"
+  certificate_url = ""
+  date_start = "2020-10"
+  date_end = "2023-10"
+  description = ""
+
+[[item]]
+  organization = "Japan Society for the Promotion of Science (JSPS)"
+  organization_url = "https://www.jsps.go.jp/english/e-fellow/"
+  title = "JSPS Postdoc Fellowship (declined)"
+  url = "https://www.jsps.go.jp/english/e-fellow/"
+  certificate_url = ""
+  date_start = "2020-01"
+  date_end = "2020-01"
+  description = ""
+
+[[item]]
+  organization = "European Union’s Horizon 2020 research and innovation programme N° 690575"
   organization_url = "http://www.invisiblesplus.eu"
   title = "Participant of InvisiblesPlus"
-  url = "https://balzan.new.ox.ac.uk"
+  url = "http://www.invisiblesplus.eu"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = "2020-02-01"
