@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "European Union’s Horizon 2020 research and innovation programme N° 754496 and Istituto Nazionale di Fisica Nucleare (INFN)."
   organization_url = "https://web.infn.it/fellini/"
-  title = "Marie-Curie Fellini Fellowship"
+  title = "Marie-Curie Fellini Fellow"
   url = "https://web.infn.it/fellini/"
   certificate_url = ""
   date_start = "2020-10"
