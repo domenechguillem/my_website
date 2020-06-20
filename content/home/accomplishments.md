@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Marie-Curie Fellini Fellow"
   url = "https://web.infn.it/fellini/"
   certificate_url = ""
-  date_start = "2020-10"
-  date_end = "2023-10"
+  date_start = "2020-10-01"
+  date_end = "2023-10-01"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "JSPS Postdoc Fellowship (declined)"
   url = "https://www.jsps.go.jp/english/e-fellow/"
   certificate_url = ""
-  date_start = "2020-01"
-  date_end = "2020-01"
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = ""
 
 [[item]]
