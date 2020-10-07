@@ -18,7 +18,7 @@ organizations:
   url: "https://www.thphys.uni-heidelberg.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research associate at the institute for theoretical physics in Heidelberg university. My research focuses in various aspects of cosmology, gravity and particle physics. 
+bio: I am a Marie-Curie Fellini Fellow at the Istituto Nazionale di Fisica Nucleare, Sezione di Padova. My research focuses in various aspects of cosmology, gravity and particle physics. 
 
 interests:
 -  Early universe physics
@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I am a research associate in the cosmology group of [ITP](https://www.thphys.uni-heidelberg.de), Heidelberg University, under the supervision of [Christof Wetterich](https://www.thphys.uni-heidelberg.de/~wetterich/). My main research interests include theories of gravity and physics of the early universe. I refereed articles for the [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516), [European Physical Journal C](https://epjc.epj.org) , the [International Journal of Modern Physics D](https://www.worldscientific.com/worldscinet/ijmpd) and the [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe). Also, I co-coordinated courses of General Relativity and of Cosmology at master level.
+I am a Marie-Curie [Fellini Fellow](https://web.infn.it/fellini/) in the cosmology group at the Istituto Nazionale di Fisica Nucleare [INFN](https://www.pd.infn.it/eng/), Sezione di [Padova](http://active.pd.infn.it/g4/), under the supervision of [Sabino Matarrese](http://unipd.academia.edu/SabinoMatarrese). My main research interests include theories of gravity and physics of the early universe. I refereed articles for the [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516), [European Physical Journal C](https://epjc.epj.org), the [International Journal of Modern Physics D](https://www.worldscientific.com/worldscinet/ijmpd) and the [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe). Also, I co-coordinated courses of General Relativity and of Cosmology at master level.
 
-I did my doctor course at [YITP](https://www.yukawa.kyoto-u.ac.jp/en-GB/), Kyoto University, under the supervision of [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/).
+I did my doctor course at [YITP](https://www.yukawa.kyoto-u.ac.jp/en-GB/), Kyoto University, under the supervision of [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/). My first postdoc was at the institute for theoretical physics [ITP](https://www.thphys.uni-heidelberg.de), Heidelberg university, under the supervision of [Christof Wetterich](https://www.thphys.uni-heidelberg.de/~wetterich/).
 
-My work is supported by the DFG Collaborative Research centre SFB 1225 ISOQUANT.
+My work is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sk{\l}odowska-Curie grant agreement No 754496.
