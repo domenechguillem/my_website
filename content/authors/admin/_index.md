@@ -14,8 +14,8 @@ role: Researcher in gravity and cosmology
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Theoretical Physics, Heidelberg University
-  url: "https://www.thphys.uni-heidelberg.de"
+- name: Istituto Nazionale di Fisica Nucleare, Sezione di Padova
+  url: "https://www.pd.infn.it/eng/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Marie-Curie Fellini Fellow at the Istituto Nazionale di Fisica Nucleare, Sezione di Padova. My research focuses in various aspects of cosmology, gravity and particle physics. 
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:domenech@thphys.uni-heidelberg.de'  # For a direct email link, use "mailto:domenech@thphys.uni-heidelberg.de".
+  link: 'mailto:domenech@pd.infn.it'  # For a direct email link, use "mailto:domenech@pd.infn.it".
 - icon: inspire
   icon_pack: ai
   link: http://inspirehep.net/author/profile/G.Domenech.2
