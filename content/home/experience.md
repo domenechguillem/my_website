@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+
+  title = "Marie-Curie Fellini Fellow"
+  company = "INFN, Padova"
+  company_url = ""
+  location = "Italy"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+
   title = "Research associate"
   company = "ITP Heidelberg"
   company_url = "https://www.thphys.uni-heidelberg.de"
   location = "Germany"
   date_start = "2017-10-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
   Responsibilities include:
   
