@@ -20,17 +20,6 @@ date_format = "Jan 2006"
 
 [[experience]]
 
-  title = "Marie-Curie Fellini Fellow"
-  company = "INFN, Padova"
-  company_url = "https://www.pd.infn.it/eng/"
-  location = "Italy"
-  date_start = "2020-10-01"
-  date_end = ""
-  description = """
-
-
-[[experience]]
-
   title = "Research associate"
   company = "ITP Heidelberg"
   company_url = "https://www.thphys.uni-heidelberg.de"
