@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+
+  title = "Marie-Curie Fellini Fellow"
+  company = "INFN, Padova"
+  company_url = "https://www.pd.infn.it/eng/"
+  location = "Italy"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
+
+
 [[experience]]
 
   title = "Research associate"
