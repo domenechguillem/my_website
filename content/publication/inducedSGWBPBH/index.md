@@ -1,7 +1,9 @@
 ---
 title: "Gravitational wave constraints on the primordial black hole dominated early universe"
 authors:
-- admin, Chunshan Lin, Misao Sasaki
+- admin
+- Chunshan Lin
+- Misao Sasaki
 date: "2020-12-15"
 doi: ""
 

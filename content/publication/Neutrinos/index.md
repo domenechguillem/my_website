@@ -1,7 +1,9 @@
 ---
 title: "Neutrino masses, vacuum stability and quantum gravity prediction for the mass of the top quark"
 authors:
-- admin, Mark Goodsell and Christof Wetterich
+- admin
+- Mark Goodsell
+- Christof Wetterich
 date: "2020-08-10"
 doi: ""
 

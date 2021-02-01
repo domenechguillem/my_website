@@ -1,7 +1,8 @@
 ---
 title: "NANOGrav Hints on Planet-Mass Primordial Black Holes"
 authors:
-- admin, Shi Pi
+- admin
+- Shi Pi
 date: "2020-10-08"
 doi: ""
 

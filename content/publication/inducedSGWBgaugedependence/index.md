@@ -1,7 +1,8 @@
 ---
 title: "Approximate gauge independence of the induced gravitational wave spectrum"
 authors:
-- admin, Misao Sasaki
+- admin
+- Misao Sasaki
 date: "2020-12-27"
 doi: ""
 
