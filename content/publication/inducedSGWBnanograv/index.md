@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Recently, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) claimed the detection of a stochastic common-spectrum process of the pulsar timing array (PTA) time residuals from their 12.5 year data, which might be the first detection of the stochastic background of gravitational waves (GWs). We show that the amplitude and the power index of such waves imply that they could be the secondary GWs induced by the peaked curvature perturbation with a dust-like post inflationary era with $-0.091\gtrsim w\gtrsim 0.048$. Such stochastic background of GWs naturally predicts substantial existence of planet-mass primordial black holes (PBHs), which can be the lensing objects for the ultrashort-timescale microlensing events observed by the Optical Gravitational Lensing Experiment (OGLE).
+abstract: Recently, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) claimed the detection of a stochastic common-spectrum process of the pulsar timing array (PTA) time residuals from their 12.5 year data, which might be the first detection of the stochastic background of gravitational waves (GWs). We show that the amplitude and the power index of such waves imply that they could be the secondary GWs induced by the peaked curvature perturbation with a dust-like post inflationary era with $-0.091\lesssim w\lesssim 0.048$. Such stochastic background of GWs naturally predicts substantial existence of planet-mass primordial black holes (PBHs), which can be the lensing objects for the ultrashort-timescale microlensing events observed by the Optical Gravitational Lensing Experiment (OGLE).
 
 # Summary. An optional shortened abstract.
 summary: 
